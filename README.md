@@ -1,6 +1,6 @@
 # IRM 2024
 
-Echipa : Bocăneț Raluca-Andreea
+Echipa : Bocăneț Raluca-Andreea (3IRM3)
 
 **TEMA 1**
 
